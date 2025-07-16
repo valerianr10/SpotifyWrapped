@@ -1,4 +1,4 @@
-# 🎧 Spotify Wrapped - Personal Edition
+# 🎧 Spotify Wrapped - Personal Edition (for now it will only displayed data that had been stored into database)
 
 A custom-made Spotify Wrapped dashboard that displays your top tracks, favorite artists, and listening habits over time — all in one Streamlit web app!
 
